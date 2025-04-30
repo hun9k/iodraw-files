@@ -243,7 +243,7 @@
         </mxCell>
         <mxCell id="EpbXY68pCfe17Pi1VOna-19" value="兄弟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EpbXY68pCfe17Pi1VOna-17">
           <mxGeometry x="-0.1636" y="1" relative="1" as="geometry">
-            <mxPoint x="7" y="1" as="offset" />
+            <mxPoint x="-3" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EpbXY68pCfe17Pi1VOna-7" value="张宝" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
@@ -262,6 +262,9 @@
         </mxCell>
         <mxCell id="EpbXY68pCfe17Pi1VOna-9" value="张梁" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="685" y="810" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EpbXY68pCfe17Pi1VOna-20" value="张梁" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="695" y="820" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
